@@ -1,0 +1,14 @@
+C:\Users\Anand jee\Desktop\TASK\SmallesPositiveInteger\SmallesPositiveInteger\bin\Debug\SmallesPositiveInteger.exe.config
+C:\Users\Anand jee\Desktop\TASK\SmallesPositiveInteger\SmallesPositiveInteger\bin\Debug\SmallesPositiveInteger.exe
+C:\Users\Anand jee\Desktop\TASK\SmallesPositiveInteger\SmallesPositiveInteger\bin\Debug\SmallesPositiveInteger.pdb
+C:\Users\Anand jee\Desktop\TASK\SmallesPositiveInteger\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.csprojAssemblyReference.cache
+C:\Users\Anand jee\Desktop\TASK\SmallesPositiveInteger\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.csproj.CoreCompileInputs.cache
+C:\Users\Anand jee\Desktop\TASK\SmallesPositiveInteger\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.exe
+C:\Users\Anand jee\Desktop\TASK\SmallesPositiveInteger\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.pdb
+E:\TASK\SmallestPositiveInteger\C#\SmallesPositiveInteger\bin\Debug\SmallesPositiveInteger.exe.config
+E:\TASK\SmallestPositiveInteger\C#\SmallesPositiveInteger\bin\Debug\SmallesPositiveInteger.exe
+E:\TASK\SmallestPositiveInteger\C#\SmallesPositiveInteger\bin\Debug\SmallesPositiveInteger.pdb
+E:\TASK\SmallestPositiveInteger\C#\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.csprojAssemblyReference.cache
+E:\TASK\SmallestPositiveInteger\C#\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.csproj.CoreCompileInputs.cache
+E:\TASK\SmallestPositiveInteger\C#\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.exe
+E:\TASK\SmallestPositiveInteger\C#\SmallesPositiveInteger\obj\Debug\SmallesPositiveInteger.pdb
